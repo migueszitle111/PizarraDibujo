@@ -1,0 +1,237 @@
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\obj\Debug\FondoControl.csprojAssemblyReference.cache
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\obj\Debug\FondoControl.Properties.Resources.resources
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\obj\Debug\FondoControl.UserControl1.resources
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\obj\Debug\FondoControl.csproj.GenerateResource.cache
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\obj\Debug\FondoControl.dll.licenses
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\obj\Debug\FondoControl.csproj.CoreCompileInputs.cache
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\FondoControl.dll
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\FondoControl.pdb
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.Dataviz.WinForms.dll
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.Licensing.dll
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\obj\Debug\FondoControl.csproj.CopyComplete
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\obj\Debug\FondoControl.dll
+C:\Users\migue\OneDrive\Documentos\TOPICOS AVANZADOS DE PROGRAMACION\FondoControl\FondoControl\obj\Debug\FondoControl.pdb
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\FondoControl.dll
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\FondoControl.pdb
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.Dataviz.WinForms.dll
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.Licensing.dll
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\obj\Debug\FondoControl.csproj.AssemblyReference.cache
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\obj\Debug\FondoControl.Properties.Resources.resources
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\obj\Debug\FondoControl.UserControl1.resources
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\obj\Debug\FondoControl.csproj.GenerateResource.cache
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\obj\Debug\FondoControl.dll.licenses
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\obj\Debug\FondoControl.csproj.CoreCompileInputs.cache
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\obj\Debug\FondoControl.csproj.CopyComplete
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\obj\Debug\FondoControl.dll
+C:\Users\migue\OneDrive\Documentos\FondoControl\FondoControl\obj\Debug\FondoControl.pdb
+D:\FondoControl\FondoControl\bin\Debug\FondoControl.dll
+D:\FondoControl\FondoControl\bin\Debug\FondoControl.pdb
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.Dataviz.WinForms.dll
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.Licensing.dll
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.Dataviz.WinForms.xml
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\FondoControl\FondoControl\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\FondoControl\FondoControl\obj\Debug\FondoControl.csproj.AssemblyReference.cache
+D:\FondoControl\FondoControl\obj\Debug\FondoControl.Properties.Resources.resources
+D:\FondoControl\FondoControl\obj\Debug\FondoControl.UserControl1.resources
+D:\FondoControl\FondoControl\obj\Debug\FondoControl.csproj.GenerateResource.cache
+D:\FondoControl\FondoControl\obj\Debug\FondoControl.dll.licenses
+D:\FondoControl\FondoControl\obj\Debug\FondoControl.csproj.CoreCompileInputs.cache
+D:\FondoControl\FondoControl\obj\Debug\FondoControl.csproj.CopyComplete
+D:\FondoControl\FondoControl\obj\Debug\FondoControl.dll
+D:\FondoControl\FondoControl\obj\Debug\FondoControl.pdb
